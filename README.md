@@ -230,8 +230,8 @@ Example:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ifta-audit-ml-system.git
-cd ifta-audit-ml-system
+git clone https://github.com/murtaza-vora/GOA-IFTA-Analysis.git
+cd GOA-IFTA-Analysis
 ```
 
 ---
